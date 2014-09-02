@@ -1,0 +1,1 @@
+This excercise uses the gradient descent algorithm, and single variable linear regression to learn from the dataset given. The dataset came from Coursera's Machine Learning course. I plan on completing all the excercises in the Machine Learning course in Java.
